@@ -1,6 +1,6 @@
 dictionary.txt
 secrets.txt
-solutions.py
+
 *.json
 *.xlsx
 env.py
@@ -12,4 +12,5 @@ Thumbs.db
 *.csv
 titanic.csv
 iris.csv
-password
+solutions.py
+functions_lesson.ipynb
